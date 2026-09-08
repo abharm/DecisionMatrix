@@ -1,0 +1,47 @@
+School / Option,US News Rank,Overall Prestige,Public Defender Fit,Public Interest Strength,Median LSAT,Median GPA,Acceptance Rate,Admission Chance (165 LSAT),Selectivity Tier,Government Employment,Public Interest Employment,Annual Tuition,Three-Year Cost,Scholarship Potential,LRAP Rating
+#weight,10,5,8,4,2,3,3,7,7,6,5,5,5,6,5
+#type,numeric,numeric,numeric,numeric,numeric,numeric,numeric,numeric,numeric,numeric,numeric,numeric,numeric,numeric,numeric
+#direction,lower_is_better,higher_is_better,higher_is_better,higher_is_better,higher_is_better,higher_is_better,higher_is_better,higher_is_better,lower_is_better,higher_is_better,higher_is_better,lower_is_better,lower_is_better,higher_is_better,higher_is_better
+American University Washington College of Law,131,6,88,2,161,3.49,39,95,3,12,10,61000,267000,3,1
+Boston College Law School,37,7,82,2,167,3.72,4,60,2,8,8,65000,276000,2,2
+Boston University School of Law,22,8,84,2,169,3.77,18,45,2,8,8,64000,279000,2,2
+CUNY School of Law,105,5,99,3,155,3.26,38,99,4,14,24,29000,156000,1,2
+Cardozo School of Law,139,6,85,2,164,3.61,36,88,3,10,9,73000,303000,3,1
+Columbia Law School,10,10,82,3,173,3.92,12,15,1,6,8,85000,354000,1,2
+Cornell Law School,14,9,75,1,172,3.86,15,22,1,6,5,78000,312000,2,2
+Drexel University Kline School of Law,120,6,87,2,160,3.44,43,96,4,11,10,54000,234000,3,1
+Duke Law School,6,9,78,2,170,3.87,11,25,1,8,5,77000,315000,1,2
+Emory University School of Law,35,7,80,1,166,3.82,9,68,3,9,6,65000,264000,3,1
+George Washington University Law School,35,8,86,2,168,3.78,28,55,2,11,7,64000,288000,2,1
+Georgetown University Law Center,14,9,94,3,171,3.85,19,30,1,10,10,81000,324000,2,2
+Harvard Law School,6,10,84,3,174,3.96,10,15,1,7,8,81000,348000,1,2
+Loyola University Chicago School of Law,115,6,86,2,160,3.38,41,96,4,12,9,55000,237000,3,1
+New York University School of Law,8,10,96,3,172,3.91,5,25,1,7,12,83000,345000,1,2
+Northeastern University School of Law,108,6,94,3,164,3.61,35,90,3,11,16,61000,267000,2,2
+Northwestern Pritzker School of Law,10,9,77,1,171,3.89,15,28,1,7,5,79000,324000,2,2
+Ohio State Moritz College of Law,42,7,83,2,165,3.75,33,78,3,10,7,37000,189000,3,1
+Rutgers Law School,149,6,90,2,158,3.39,49,98,4,13,12,33000,183000,3,2
+Stanford Law School,1,10,88,3,173,3.92,6,10,1,5,8,78000,336000,1,2
+Temple University Beasley School of Law,54,7,90,2,164,3.57,33,90,3,12,11,38000,198000,3,2
+UC Berkeley Law,12,9,91,3,170,3.83,13,30,1,8,10,64000,309000,2,2
+UCLA School of Law,15,9,95,3,171,3.92,16,30,1,8,12,61000,303000,2,2
+University of Baltimore School of Law,116,5,88,2,156,3.18,48,99,4,14,11,34000,177000,3,1
+University of California Davis School of Law,37,7,89,2,165,3.67,32,75,3,9,10,59000,264000,3,2
+University of California Irvine Law,42,7,93,3,167,3.74,22,62,2,10,13,57000,282000,3,2
+University of Chicago Law School,3,10,79,2,173,3.91,13,15,1,7,6,80000,330000,1,2
+University of Denver Sturm College of Law,129,6,86,2,161,3.55,46,94,3,11,10,58000,249000,3,1
+University of Iowa College of Law,36,7,83,2,165,3.68,39,78,3,10,7,33000,177000,3,2
+University of Maryland Carey Law,51,7,91,2,164,3.62,36,88,3,12,11,35000,189000,3,2
+University of Michigan Law School,9,9,86,3,171,3.83,12,28,1,7,8,76000,303000,2,2
+University of Minnesota Law School,20,8,88,2,168,3.79,24,55,2,10,8,48000,225000,3,2
+University of North Carolina School of Law,22,8,84,2,166,3.72,22,65,3,10,7,26000,165000,3,2
+University of Notre Dame Law School,20,8,78,1,169,3.83,18,42,2,8,5,67000,273000,2,2
+University of Pennsylvania Carey Law School,4,10,80,2,172,3.92,9,15,1,7,5,79000,333000,1,2
+University of Southern California Gould School of Law,20,8,84,2,168,3.82,17,45,2,7,7,78000,318000,2,2
+University of Texas School of Law,16,8,87,2,169,3.84,17,42,2,9,7,39000,216000,3,2
+University of Virginia School of Law,4,10,81,2,172,3.97,14,20,1,8,5,76000,315000,1,2
+University of Washington School of Law,49,7,87,2,165,3.68,33,80,3,10,9,42000,213000,3,2
+Vanderbilt Law School,18,8,80,2,170,3.86,15,35,1,8,6,75000,303000,2,2
+Washington University in St. Louis School of Law,18,8,83,2,173,3.89,20,30,1,7,7,70000,288000,3,2
+William & Mary Law School,39,7,82,2,165,3.67,35,80,3,9,7,38000,195000,3,1
+Yale Law School,1,10,87,3,175,3.96,5,8,1,7,9,81000,327000,1,2

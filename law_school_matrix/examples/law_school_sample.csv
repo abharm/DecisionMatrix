@@ -1,0 +1,9 @@
+School / Option,Employment Outcomes,Cost of Attendance,Ranking,Location,Student Experience
+#weight,9,8,6,5,5
+#type,rating,numeric,numeric,rating,rating
+#direction,higher_is_better,lower_is_better,lower_is_better,higher_is_better,higher_is_better
+Alder Law (fictional),93,72000,12,82,88
+Briar School of Law (fictional),86,51000,28,90,91
+Cedar Law Institute (fictional),89,65000,19,75,84
+Dover College of Law (fictional),80,44000,42,85,95
+Elm Law School (fictional),91,84000,8,79,83
