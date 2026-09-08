@@ -9,6 +9,9 @@ on:
 jobs:
   build-macos:
     runs-on: macos-latest
+    defaults:
+      run:
+        working-directory: law_school_matrix
 
     steps:
       - name: Checkout repository
@@ -38,7 +41,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: DecisionMatrix-macOS
-          path: dist/DecisionMatrix-macOS.zip
-
-
-          
+          path: law_school_matrix/dist/DecisionMatrix-macOS.zip
